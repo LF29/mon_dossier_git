@@ -1,2 +1,2 @@
 var text = "Hello Tous le monde !"
-alert(text;
+alert(text);
